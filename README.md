@@ -20,5 +20,5 @@ FUTURE ENHANCEMENTS:
 1) Option to receive an sms 
 2) Keep track of the state for each subscriber
 3) Visual enhancements
-
+4) Opt out of the calls (#1 priority)
 
