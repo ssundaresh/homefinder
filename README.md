@@ -9,7 +9,7 @@ Most rental homes in the Bay Area are advertised on craigslist.org. You may howe
 This site allows you to receive calls at regular intervals (that you pick) informing you of new listings on craigslist. We also allow you to set certain search criteria to reduce noise.
 
 HOW DO I USE IT?
-The website is available online at http://homesearch.cloudapp.net/homeFinder/HomeFinder.jsp
+The website is available online at ~~http://homesearch.cloudapp.net/homeFinder/HomeFinder.jsp~~ (I'm in the process of finding an alternate home for this)
 
 If you subscribe for alerts on this webpage, you will receive a phone call at the frequency you choose. "Call me now" is a way to test the application, if you don't want to wait for an entire hour or a day.
 When you do receive a call, you will hear a message that tells you how many new listings have been posted, so you can view the details online. Craigslist forbids 3rd part applications from scraping their results, so this website will not provide the actual listings.
