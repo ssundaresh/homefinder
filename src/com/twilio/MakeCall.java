@@ -38,8 +38,8 @@ public class MakeCall {
 	  private long fDelayBetweenRuns;
 	  private long fShutdownAfter;
 	  
-	final String ACCOUNT_SID = "AC73d57075f8fa0bb42e11e7058c44240f";
-    final String AUTH_TOKEN = "3f79e1317e5c3fba6b3cf52d0f634083";
+	final String ACCOUNT_SID = "ACCOUNT_SID_HERE";
+    final String AUTH_TOKEN = "AUTH_TOKEN_HERE";
     
 	public String returnName(String to_num, String max_price, String num_bedrooms, String callFrequency)
 	{
